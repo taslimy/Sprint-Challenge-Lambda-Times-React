@@ -1,0 +1,8 @@
+- [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
+-  Props are passed down to components it is required in. 
+- [ ] Describe a life-cycle event in React?
+- setState(), componentUpdate, render()
+- [ ] Explain the details of a Higher Order Component?
+- They similiar to what a callback function would be. where it takes one componenet and returns another.
+- [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+- Libaries like Material UI - you get prebuilt layouts speed up work flow, Good ole vanilla CSS - keeps things seperate and tiny and not have everything done in JavaScript, React Styled-Components - Allows you to write your CSS in JavaScript and include it in the same file, and you no longer have to target a className.

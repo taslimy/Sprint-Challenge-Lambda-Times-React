@@ -152,6 +152,7 @@ body {
   letter-spacing: 1px;
 }
 .header .date {
+  text-transform: uppercase;
   margin-left: 25px;
   flex: 1;
 }
